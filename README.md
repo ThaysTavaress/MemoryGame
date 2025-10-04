@@ -38,19 +38,18 @@ O arquivo `script.js` implementa as regras do jogo:
 
 ### Estrutura de Pastas  
 
-
-'''
- projeto-jogo-da-memoria
-┣  css
-┃ ┗ style.css
-┣  img
-┃ ┣ img1.png
-┃ ┣ img2.png
-┃ ┗ img3.png
-┣  js
-┃ ┗ script.js
-┣  index.html
-┗  README.md
+```bash
+projeto-jogo-da-memoria
+├── css
+│   └── style.css
+├── img
+│   ├── img1.png
+│   ├── img2.png
+│   └── img3.png
+├── js
+│   └── script.js
+├── index.html
+└── README.md
 
 📌 Conclusão
 
