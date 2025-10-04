@@ -54,8 +54,5 @@ projeto-jogo-da-memoria
 
 📌 Conclusão
 
-Este projeto permitiu colocar em prática conhecimentos de HTML, CSS e JavaScript, trabalhando com:
-	-Estruturação de páginas web.
-	-Estilização visual e animações.
-	-Manipulação do DOM e lógica de jogo interativa.
+Este projeto permitiu colocar em prática conhecimentos de HTML, CSS e JavaScript, trabalhando com,estruturação de páginas web e estilização visual e animações.
 
