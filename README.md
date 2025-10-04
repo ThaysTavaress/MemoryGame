@@ -39,7 +39,7 @@ O arquivo `script.js` implementa as regras do jogo:
 ### Estrutura de Pastas  
 
 
-'''bash
+'''
  projeto-jogo-da-memoria
 ┣  css
 ┃ ┗ style.css
