@@ -7,7 +7,7 @@
 ---
 
 ## 📖 Introdução  
-Este projeto consiste na implementação de um **Jogo da Memória** utilizando **HTML, CSS e JavaScript**, desenvolvido como parte de uma atividade acadêmica.  
+Este projeto consiste na implementação de um **Jogo da Memória** utilizando **HTML, CSS e JavaScript**,  
 O objetivo é construir um jogo interativo em que o usuário deve encontrar pares de cartas iguais, exercitando lógica de programação e fundamentos de desenvolvimento web.  
 
 ---
@@ -38,7 +38,8 @@ O arquivo `script.js` implementa as regras do jogo:
 
 ### Estrutura de Pastas  
 
-📂 projeto-jogo-da-memoria
+
+""📂 projeto-jogo-da-memoria
 ┣ 📂 css
 ┃ ┗ style.css
 ┣ 📂 img
